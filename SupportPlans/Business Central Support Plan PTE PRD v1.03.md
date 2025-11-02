@@ -48,7 +48,7 @@ Support Plans Version 1.0.3.0
 The application will have the following values in the app.json file:
 
 - Name: Support Plans
-- Publisher: Blue Dragonfly, LLC
+- Publisher: ERP Support Team
 - Version: <same value as application version number listed above>
 - Brief: Support Plans Management
 - Description: Manage and track customer support plans in Business Central
@@ -260,4 +260,5 @@ The Note List Part will display the following fields:
 2. Date:  datetime when the note record was created / inserted
 3. User:  text field with the BC username who created the note
 4. Note:  500 character text field to store note text
+
 
