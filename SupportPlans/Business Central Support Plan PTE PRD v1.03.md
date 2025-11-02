@@ -153,7 +153,7 @@ Here are example file names based on the rules listed above.
 - Support Plan Level Enum:  File Name: SPSupportPlanLevelEEST.Enum.al
 
 
-**Application Requirements**
+# Application Requirements
 
 The PTE must meet the following requirements and specifications, and allow a user to perform the following processes in Dynamics 365 Business Central.
 
@@ -260,6 +260,7 @@ The Note List Part will display the following fields:
 2. Date:  datetime when the note record was created / inserted
 3. User:  text field with the BC username who created the note
 4. Note:  500 character text field to store note text
+
 
 
 
