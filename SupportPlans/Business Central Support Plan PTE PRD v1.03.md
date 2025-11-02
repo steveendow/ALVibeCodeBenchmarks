@@ -88,7 +88,7 @@ If the AL object name exceeds 20 characters for a Permission Set, or exceeds 30 
 
 1. Prefix: SP - All objects will start with "SP", which stands for Support Plan
 
-2. Name: Name the object based on it's purppose or function, with no spaces and initial capitals for each word. 
+2. Name: Name the object based on it's purpose or function, with no spaces and initial capitals for each word. 
 
 For example:
 
@@ -260,5 +260,6 @@ The Note List Part will display the following fields:
 2. Date:  datetime when the note record was created / inserted
 3. User:  text field with the BC username who created the note
 4. Note:  500 character text field to store note text
+
 
 
