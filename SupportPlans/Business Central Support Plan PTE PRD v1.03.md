@@ -103,19 +103,19 @@ For example:
 
 Values:
 
-C = Codeunit
-P = Page
-Q = Query
-R = Report
-T = Table
-PE = Page Extension
-TE = Table Extension
-RE = Report Extension
-PS = Permission Set
+- C = Codeunit
+- P = Page
+- Q = Query
+- R = Report
+- T = Table
+- PE = Page Extension
+- TE = Table Extension
+- RE = Report Extension
+- PS = Permission Set
 
 4. Object Suffix:  A constant three letter suffix that represents the application publisher to ensure unique object names in BC.
 
-Suffix value:  EST
+- Suffix value:  EST
 
 EST is an abbreviation for "ERP Support Team"
 
@@ -196,7 +196,7 @@ This is a Business Central "List Page" that displays all Support Plans records.
 The Plan No. field will be a link to open the Support Plan card page and display the selected Support Plan record.
 
 
-# Support Plan card page
+# Support Plan Card Page
 
 This is a Business Central "card page" that allows a user to enter a new support plan for an existing Business Central customer.
 
@@ -252,7 +252,7 @@ The Note List Part will display the following fields:
 2. User:  Read only text field with the BC username who created the note
 3. Note:  500 character text field to store note text
 
-### Note table
+### Note Table
 
 1. Support Plan No: Link to the support plan record
 2. Date:  datetime when the note record was created / inserted
