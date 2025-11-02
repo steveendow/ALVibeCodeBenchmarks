@@ -131,6 +131,8 @@ EST is an abbreviation for "ERP Support Team"
 
 File names will be based on the AL object name with spaces removed.  A suffix will then be added to the end of the file name.
 
+Suffix values:
+
 - Codeunit
 - Enum
 - Page
@@ -258,3 +260,4 @@ The Note List Part will display the following fields:
 2. Date:  datetime when the note record was created / inserted
 3. User:  text field with the BC username who created the note
 4. Note:  500 character text field to store note text
+
